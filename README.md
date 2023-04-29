@@ -15,8 +15,3 @@
    - `git commit`: Commit changes in index
  ### Merge Conflicts
     - This happens when merge cannot be completed automatically
-
- 
- <h4>Merge Conflicts</h4>
- <h3> new repository <h3>
- 
